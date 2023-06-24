@@ -12,9 +12,13 @@ namespace DotNetStudy
         public string Name;
         //fuction syntax
         //accessmodifier returntype fuctionName(prameters)
+        public Student()
+        {
+                
+        }
         public void Study()
         {
-
+            Console.WriteLine("github");
         }
     }
 }
