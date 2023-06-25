@@ -18,7 +18,7 @@ namespace DotNetStudy
         }
         public void Study()
         {
-            Console.WriteLine("hii");
+            Console.WriteLine("hii hello");
         }
     }
 }
