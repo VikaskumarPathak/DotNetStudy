@@ -13,7 +13,7 @@ namespace DotNetStudy
             //className objectName = new className()
             Student objstu = new Student();
             objstu.id = 1;
-            objstu.Name = "shubham";
+            objstu.Name = "shubham sh";
             Console.WriteLine(objstu.id + "" + objstu.Name);
         }
     }
